@@ -1,3 +1,9 @@
+[Alper Yalman Patika.dev profil](https://app.patika.dev/alperyalman)
+
+Patika Java 101 dersindeki çalışmaları içermektedir. 
+
+---
+
 ## Not Ortalaması Hesaplayan Program
 Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
 
